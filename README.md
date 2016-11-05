@@ -20,4 +20,4 @@ Create two shortcuts with following targets: (example if you put `windows_update
 #### Vocabulary
 
  - *Disable* means to stop (if running) and disable windows update
- - *Enable* means to start windows update in manual mode
+ - *Enable* means to activate windows update in manual mode.
