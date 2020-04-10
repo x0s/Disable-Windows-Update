@@ -15,7 +15,7 @@ Create two shortcuts with following targets: (example if you put `windows_update
 
 - to enable: `%windir%\system32\cmd.exe /k "%USERPROFILE%\Desktop\Windows Update\windows_update.bat" enable`
 - to disable: `%windir%\system32\cmd.exe /k "%USERPROFILE%\Desktop\Windows Update\windows_update.bat" disable`
-- Note: if the path to the Desktop is *not the default* or you want to store the script in another place, you need to modify the target. Example If your userprofile folder is on another drive i.e. "K:\My username so cool\Desktop\Windows Update\windows_update.bat" enable", set `%windir%\system32\cmd.exe /k "K:\Mr Fly\Bureau\Windows Update\windows_update.bat" enable`
+- Note: if the path to the Desktop is *not the default* or you want to store the script in another place, you need to modify the target. Example If your userprofile folder is on another drive i.e. "K:\My username so cool\Desktop\Windows Update\windows_update.bat" enable", set `%windir%\system32\cmd.exe /k "K:\My username so cool\Desktop\Bureau\Windows Update\windows_update.bat" enable`
 
 #### Vocabulary
 
